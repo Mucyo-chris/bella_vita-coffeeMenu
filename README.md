@@ -10,6 +10,7 @@ A simple project to manage and display the coffee menu for Bella Vita.
 - Track availability of each item
 - Easy to update and expand
 - Simple and clean user interface
+- Small size more clear UI (mobile size)
 
 ---
 
